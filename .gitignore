@@ -1,0 +1,15 @@
+# Arduino build output
+/build/
+*.hex
+*.elf
+*.bin
+
+# Arduino IDE
+.theia/
+.vscode/
+*.pde.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
