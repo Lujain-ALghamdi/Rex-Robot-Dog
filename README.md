@@ -244,11 +244,3 @@ Servo angles may need minor calibration depending on the mechanical orientation 
 Avoid forcing a servo beyond the physical movement limits of the robot chassis.
 
 Multiple servo motors can draw significant current. For more demanding operation, an appropriate external servo power supply with a common ground should be considered.
-
----
-
-## 🐾 Meet Rex
-
-Rex is more than four servo motors and an Arduino — he is a small experiment in robotics, programming, electronics, and motion control.
-
-**Meet Rex. Build him. Program him. Make him move. 🐕🤖**
