@@ -16,7 +16,7 @@ Rex can perform several actions, including:
 
 ## 📸 Meet Rex
 
-<img width="450" height="762" alt="5803430411487612791_121" src="https://github.com/user-attachments/assets/7cc4e9f2-657f-4141-bc5f-78986a597a89" /><img width="450" height="762" alt="لقطة شاشة 2026-08-29 012116" src="https://github.com/user-attachments/assets/7baebf28-ba54-4436-ad31-e0a8a061a693" />
+<img width="410" height="762" alt="5803430411487612791_121" src="https://github.com/user-attachments/assets/7cc4e9f2-657f-4141-bc5f-78986a597a89" /><img width="410" height="762" alt="لقطة شاشة 2026-08-29 012116" src="https://github.com/user-attachments/assets/7baebf28-ba54-4436-ad31-e0a8a061a693" />
 
 
 Rex uses four independently controlled servo motors, with one servo controlling each leg.
